@@ -7,3 +7,5 @@ This website uses express as the backend to make a request the openweather API, 
 To visit the website go to: 
 
 The code uploaded here does not include the api key
+
+Background images were provided from: https://dribbble.com/shots/3333720-Weather-App-Background-Image-Free Images are made by Prem
